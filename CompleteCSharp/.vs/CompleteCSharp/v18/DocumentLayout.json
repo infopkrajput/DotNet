@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649A25AA-CD48-4993-B110-1901F9448DB8}|CompleteCSharp\\CompleteCSharp.csproj|c:\\users\\pkraj\\onedrive\\study\\dotnet\\completecsharp\\completecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649A25AA-CD48-4993-B110-1901F9448DB8}|CompleteCSharp\\CompleteCSharp.csproj|solutionrelative:completecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\CompleteCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CompleteCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\CompleteCSharp\\Program.cs",
+              "RelativeToolTip": "CompleteCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:14:09.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
