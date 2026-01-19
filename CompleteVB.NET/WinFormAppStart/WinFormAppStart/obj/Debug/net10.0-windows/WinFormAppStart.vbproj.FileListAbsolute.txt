@@ -1,0 +1,17 @@
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.MainForm.resources
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.vbproj.GenerateResource.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.AssemblyInfoInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.AssemblyInfo.vb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.vbproj.CoreCompileInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.sourcelink.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\bin\Debug\net10.0-windows\WinFormAppStart.exe
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\bin\Debug\net10.0-windows\WinFormAppStart.deps.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\bin\Debug\net10.0-windows\WinFormAppStart.runtimeconfig.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\bin\Debug\net10.0-windows\WinFormAppStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\bin\Debug\net10.0-windows\WinFormAppStart.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\refint\WinFormAppStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\WinFormAppStart.genruntimeconfig.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\WinFormAppStart\WinFormAppStart\obj\Debug\net10.0-windows\ref\WinFormAppStart.dll

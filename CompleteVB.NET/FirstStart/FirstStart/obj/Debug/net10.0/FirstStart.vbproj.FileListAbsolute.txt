@@ -1,0 +1,15 @@
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\bin\Debug\net10.0\FirstStart.exe
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\bin\Debug\net10.0\FirstStart.deps.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\bin\Debug\net10.0\FirstStart.runtimeconfig.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\bin\Debug\net10.0\FirstStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\bin\Debug\net10.0\FirstStart.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.AssemblyInfoInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.AssemblyInfo.vb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.vbproj.CoreCompileInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.sourcelink.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\refint\FirstStart.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\FirstStart.genruntimeconfig.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteVB.NET\FirstStart\FirstStart\obj\Debug\net10.0\ref\FirstStart.dll
