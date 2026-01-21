@@ -1,0 +1,253 @@
+﻿//Variable Declarations and Data Types
+
+//int myNumber = 42;
+//string myText = "Hello, World!";
+//decimal myDecimal = 3.14M;
+//bool myBoolean = true;
+//Console.WriteLine($"Integer: {myNumber}");
+//Console.WriteLine($"String: {myText}");
+//Console.WriteLine($"Decimal: {myDecimal}");
+//Console.WriteLine($"Boolean: {myBoolean}");
+
+//Arithmetic Operations
+//int a = 10;
+//int b = 3;
+
+//int sum = a + b;
+//int difference = a - b;
+//int product = a * b;
+//double quotient = (double)a / b;
+
+//Console.WriteLine($"Sum: {sum}");
+//Console.WriteLine($"Difference: {difference}");
+//Console.WriteLine($"Product: {product}");
+//Console.WriteLine($"Quotient: {quotient}");
+
+//Comparison Operators
+//int a = 10;
+//int b = 20;
+
+//Console.WriteLine($"Is a equal to b? {a == b}");
+//Console.WriteLine($"Is a not equal to b? {a != b}");
+//Console.WriteLine($"Is a greater than b? {a > b}");
+//Console.WriteLine($"Is a less than b? {a < b}");
+//Console.WriteLine($"Is a greater than or equal to b? {a >= b}");
+//Console.WriteLine($"Is a less than or equal to b? {a <= b}");
+
+//Logical Operators
+//bool x = true;
+//bool y = false;
+
+//// Using && (And) - both must be True
+//Console.WriteLine($"x && y: {x && y}");  // This will print False
+
+//// Using || (Or) - at least one must be True
+//Console.WriteLine($"x || y: {x || y}");  // This will print True
+
+//bool a = true;
+//bool b = false;
+
+//// Using && (AndAlso) - stops if the first condition is False
+//Console.WriteLine($"a && b: {a && b}");  // This will print False, and b won't be evaluated
+
+//// Using || (OrElse) - stops if the first condition is True
+//Console.WriteLine($"a || b: {a || b}");  // This will print True, and b won't be evaluated
+
+//Assignment Operators
+//int num = 10;
+
+//// Using the addition assignment operator
+//num += 5;  // Now num is 15
+//Console.WriteLine($"After num += 5: {num}");
+
+//// Using the subtraction assignment operator
+//num -= 3;  // Now num is 12
+//Console.WriteLine($"After num -= 3: {num}");
+
+//// Using the multiplication assignment operator
+//num *= 2;  // Now num is 24
+//Console.WriteLine($"After num *= 2: {num}");
+
+//// Using the division assignment operator
+//num /= 4;  // Now num is 6
+//Console.WriteLine($"After num /= 4: {num}");
+
+//Bitwise Operators
+//int a = 12;  // In binary: 1100
+//int b = 5;   // In binary: 0101
+
+//// Bitwise AND
+//int resultAnd = a & b;  // 1100 & 0101 = 0100 (4 in decimal)
+//Console.WriteLine($"Bitwise AND: {resultAnd}");
+
+//// Bitwise OR
+//int resultOr = a | b;  // 1100 | 0101 = 1101 (13 in decimal)
+//Console.WriteLine($"Bitwise OR: {resultOr}");
+
+//// Bitwise XOR
+//int resultXor = a ^ b;  // 1100 ^ 0101 = 1001 (9 in decimal)
+//Console.WriteLine($"Bitwise XOR: {resultXor}");
+
+//// Bitwise NOT
+//int resultNot = ~a;  // Inverts all bits of a
+//Console.WriteLine($"Bitwise NOT of a: {resultNot}");
+
+//// Left shift
+//int leftShift = a << 1;  // Shifts bits to the left by one position
+//Console.WriteLine($"Left shift (a << 1): {leftShift}");
+
+//// Right shift
+//int rightShift = a >> 1;  // Shifts bits to the right by one position
+//Console.WriteLine($"Right shift (a >> 1): {rightShift}");
+
+//Control Flow Statements
+//If-Else Statement
+//int number = 15;
+//if (number % 2 == 0)
+//{
+//    Console.WriteLine($"{number} is even.");
+//}
+//else
+//{
+//    Console.WriteLine($"{number} is odd.");
+//}
+
+//If-ElseIf-Else Statement
+//int number = 10;
+//if (number > 0)
+//{
+//    Console.WriteLine("The number is positive.");
+//}
+//else if (number < 0)
+//{
+//    Console.WriteLine("The number is negative.");
+//}
+//else
+//{
+//    Console.WriteLine("The number is zero.");
+//}
+
+//Switch Statement
+//char grade = 'B';
+
+//switch (grade)
+//{
+//    case 'A':
+//        Console.WriteLine("Excellent!");
+//        break;
+//    case 'B':
+//        Console.WriteLine("Good!");
+//        break;
+//    case 'C':
+//        Console.WriteLine("Average!");
+//        break;
+//    case 'D':
+//        Console.WriteLine("Below Average!");
+//        break;
+//    case 'F':
+//        Console.WriteLine("Failed!");
+//        break;
+//    default:
+//        Console.WriteLine("Invalid grade.");
+//        break;
+//}
+
+//Looping Statements
+//For Loop
+//for (int i = 1; i <= 5; i++)
+//{
+//    Console.WriteLine($"Number: {i}");
+//}
+
+//While Loop
+//int number = 1;
+
+//while (number <= 5)
+//{
+//    Console.WriteLine($"Number: {number}");
+//    number++;
+//}
+
+//Do While Loop
+//int count = 1;
+
+//do
+//{
+//    Console.WriteLine($"Count: {count}");
+//    count++;
+//} while (count <= 5);
+
+//Do Until Loop (C# doesn't have do-until, so we use do-while with inverted condition)
+//int count = 1;
+
+//do
+//{
+//    Console.WriteLine($"Count: {count}");
+//    count++;
+//} while (count <= 5);
+
+//Functions and Methods
+
+//Calling a Method
+//PrintGreeting();
+
+//Calling a Function
+//int sum = AddNumbers(5, 7);
+//Console.WriteLine($"Sum: {sum}");
+
+//Exception Handling
+//try
+//{
+//    int numerator = 10;
+//    int denominator = 0;
+//    int result = numerator / denominator;  // This will cause a divide-by-zero exception
+//}
+//catch (DivideByZeroException)
+//{
+//    Console.WriteLine("Error: Cannot divide by zero.");
+//}
+//catch (Exception ex)
+//{
+//    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+//}
+//finally
+//{
+//    Console.WriteLine("This block runs regardless of an error.");
+//}
+
+//OOP Concepts
+//Encapsulation Example
+//Create class in separate file
+//var person = new Person();
+//person.Name = "Alice";
+//person.Age = 30;
+//person.Greet();
+
+//Inheritance Example
+//Create class in separate file
+//var student = new Student();
+//student.Name = "Bob";
+//student.Age = 20;
+//student.StudentID = "S12345";
+//student.DisplayStudentInfo();
+
+//Polymorphism Example
+//Create class in separate file
+//Person polyStudent = new Student();
+//polyStudent.Name = "Charlie";
+//polyStudent.Age = 22;
+//((Student)polyStudent).StudentID = "S67890";
+//polyStudent.Greet();
+
+//Defining a Method
+static void PrintGreeting()
+{
+    Console.WriteLine("Hello, welcome to C#!");
+}
+
+//Defining a Function
+static int AddNumbers(int a, int b)
+{
+    return a + b;
+}
+

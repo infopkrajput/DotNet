@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Windows\\WinFormAppStart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214D8CEA-9E7A-ADAD-3552-97285355ECF6}|WinFormAppStart\\WinFormAppStart.vbproj|c:\\users\\pkraj\\onedrive\\study\\dotnet\\completevb.net\\windows\\winformappstart\\winformappstart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{214D8CEA-9E7A-ADAD-3552-97285355ECF6}|WinFormAppStart\\WinFormAppStart.vbproj|solutionrelative:winformappstart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214D8CEA-9E7A-ADAD-3552-97285355ECF6}|WinFormAppStart\\WinFormAppStart.vbproj|c:\\users\\pkraj\\onedrive\\study\\dotnet\\completevb.net\\windows\\winformappstart\\winformappstart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{214D8CEA-9E7A-ADAD-3552-97285355ECF6}|WinFormAppStart\\WinFormAppStart.vbproj|solutionrelative:winformappstart\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Windows\\WinFormAppStart\\WinFormAppStart\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormAppStart\\Form1.vb",
+              "ToolTip": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Windows\\WinFormAppStart\\WinFormAppStart\\Form1.vb",
+              "RelativeToolTip": "WinFormAppStart\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T17:21:14.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Windows\\WinFormAppStart\\WinFormAppStart\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormAppStart\\Form1.vb",
+              "ToolTip": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Windows\\WinFormAppStart\\WinFormAppStart\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormAppStart\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T17:19:51.751Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

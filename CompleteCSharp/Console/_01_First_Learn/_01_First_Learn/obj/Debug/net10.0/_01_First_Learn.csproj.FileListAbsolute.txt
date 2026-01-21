@@ -1,0 +1,15 @@
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\bin\Debug\net10.0\_01_First_Learn.exe
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\bin\Debug\net10.0\_01_First_Learn.deps.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\bin\Debug\net10.0\_01_First_Learn.runtimeconfig.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\bin\Debug\net10.0\_01_First_Learn.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\bin\Debug\net10.0\_01_First_Learn.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.AssemblyInfoInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.AssemblyInfo.cs
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.csproj.CoreCompileInputs.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.sourcelink.json
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\refint\_01_First_Learn.dll
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.pdb
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\_01_First_Learn.genruntimeconfig.cache
+C:\Users\pkraj\OneDrive\Study\DotNet\CompleteCSharp\Console\_01_First_Learn\_01_First_Learn\obj\Debug\net10.0\ref\_01_First_Learn.dll

@@ -1,0 +1,34 @@
+﻿Console.WriteLine("Hello, World!");
+
+// Data types
+//int number = 42;
+//double pi = 3.14;
+//string message = "Welcome to C# 14!";
+//bool isLearning = true;
+//char letter = 'C';
+//Console.WriteLine($"Number: {number}, Pi: {pi}, Message: {message}, Is Learning: {isLearning}, Letter: {letter}");
+
+// Operators
+//int a = 10;
+//int b = 10;
+//int sum = a + b;
+//Console.WriteLine($"Sum: {sum}");
+//int product = a * b;
+//Console.WriteLine($"Product: {product}");
+//int difference = a - b;
+//Console.WriteLine($"Difference: {difference}");
+//int quotient = a / b;
+//Console.WriteLine($"Quotient: {quotient}");
+//int remainder = a % b;
+//Console.WriteLine($"Remainder: {remainder}");
+
+// comparison operators
+int x = 5;
+int y = 10;
+Console.WriteLine($"x == y: {x == y}");
+Console.WriteLine($"x != y: {x != y}");
+Console.WriteLine($"x > y: {x > y}");
+Console.WriteLine($"x < y: {x < y}");
+Console.WriteLine($"x >= y: {x >= y}");
+Console.WriteLine($"x <= y: {x <= y}");
+

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\Console\\_01_First_Learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931FE0F9-D513-488F-A256-E838823D173C}|_01_First_Learn\\_01_First_Learn.csproj|c:\\users\\pkraj\\onedrive\\study\\dotnet\\completecsharp\\console\\_01_first_learn\\_01_first_learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931FE0F9-D513-488F-A256-E838823D173C}|_01_First_Learn\\_01_First_Learn.csproj|solutionrelative:_01_first_learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Console\\FirstStart\\FirstStart\\Program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Console\\FirstStart\\FirstStart\\Program.vb",
+              "RelativeDocumentMoniker": "..\\..\\..\\CompleteVB.NET\\Console\\FirstStart\\FirstStart\\Program.vb",
+              "ToolTip": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteVB.NET\\Console\\FirstStart\\FirstStart\\Program.vb",
+              "RelativeToolTip": "..\\..\\..\\CompleteVB.NET\\Console\\FirstStart\\FirstStart\\Program.vb",
+              "ViewState": "AgIAANMAAAAAAAAAAADwv+wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-19T08:57:06.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\Console\\_01_First_Learn\\_01_First_Learn\\Program.cs",
+              "RelativeDocumentMoniker": "_01_First_Learn\\Program.cs",
+              "ToolTip": "C:\\Users\\pkraj\\OneDrive\\Study\\DotNet\\CompleteCSharp\\Console\\_01_First_Learn\\_01_First_Learn\\Program.cs*",
+              "RelativeToolTip": "_01_First_Learn\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:21:52.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
